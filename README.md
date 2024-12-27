@@ -12,9 +12,7 @@ MedNES-iOS is released under the [MIT License](LICENSE), as is the original [Med
 MedNES-iOS is an unofficial port and is not affiliated with or endorsed by the original MedNES project or Nintendo. All trademarks and game console names are the property of Nintendo Co., Ltd.
 
 ## Installation
-You can download the MedNES `.ipa` file from the [Releases](https://github.com/0-Blu/MedNES-iOS/releases) page. Alternatively, you can click the link below to open it directly in SideStore for installation:
-
-[Install MedNES](sidestore://install?url=https://github.com/0-Blu/MedNES-iOS/releases/download/v1.0.0/MedNES.ipa)
+You can download the MedNES `.ipa` file from the [Releases](https://github.com/0-Blu/MedNES-iOS/releases) page and install it with something like SideStore.
 
 ## Contributing
 Contributions are welcome! Feel free to fork the project, open issues, or submit pull requests to enhance the emulator.

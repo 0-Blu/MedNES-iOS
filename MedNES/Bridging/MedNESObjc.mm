@@ -1,6 +1,6 @@
 //
-//  StikNESObjC.m
-//  StikNES
+//  MedNESObjC.m
+//  MedNES
 //
 //  Created by Stossy11 on 12/21/2024.
 //  Fixed by 0-Blu

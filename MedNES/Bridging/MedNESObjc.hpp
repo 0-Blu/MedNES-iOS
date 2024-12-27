@@ -1,6 +1,6 @@
 //
-//  StikNESObjc.h
-//  StikNES
+//  MedNESObjc.h
+//  MedNES
 //
 //  Created by Stossy11 on 21/12/2024.
 //

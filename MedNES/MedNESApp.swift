@@ -1,14 +1,14 @@
 //
-//  StikNESApp.swift
-//  StikNES
+//  MedNESApp.swift
+//  MedNES
 //
-//  Created by Stossy11 on 21/12/2024.
+//  Created by Stossy11 on 12/21/2024.
 //
 
 import SwiftUI
 
 @main
-struct StikNESApp: App {
+struct MedNESApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

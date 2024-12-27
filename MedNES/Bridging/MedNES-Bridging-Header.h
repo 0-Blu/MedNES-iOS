@@ -1,6 +1,6 @@
 //
-//  StikNES-Bridging-Header.h
-//  StikNES
+//  MedNES-Bridging-Header.h
+//  MedNES
 //
 //  Created by Stossy11 on 21/12/2024.
 //

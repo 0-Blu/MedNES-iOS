@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  StikNES
+//  MedNES
 //
 //  Created by Stossy11 on 21/12/2024.
 //  Fixed by 0-Blu

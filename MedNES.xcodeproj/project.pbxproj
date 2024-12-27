@@ -20,11 +20,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4E91B4542D16247E003CF11D /* StikNES.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StikNES.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E91B4542D16247E003CF11D /* MedNES.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MedNES.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		4EC8EF332D163D2F007738E9 /* Exceptions for "StikNES" folder in "Embed Frameworks" phase from "StikNES" target */ = {
+		DCF9F8E22D1E71C800B62091 /* Exceptions for "MedNES" folder in "Embed Frameworks" phase from "MedNES" target */ = {
 			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
 			attributesByRelativePath = {
 				Dependencies/SDL2.xcframework = (CodeSignOnCopy, RemoveHeadersOnCopy, );
@@ -37,12 +37,12 @@
 /* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4E91B4562D16247E003CF11D /* StikNES */ = {
+		DCF9F8D02D1E714300B62091 /* MedNES */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				4EC8EF332D163D2F007738E9 /* Exceptions for "StikNES" folder in "Embed Frameworks" phase from "StikNES" target */,
+				DCF9F8E22D1E71C800B62091 /* Exceptions for "MedNES" folder in "Embed Frameworks" phase from "MedNES" target */,
 			);
-			path = StikNES;
+			path = MedNES;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -61,7 +61,7 @@
 		4E91B44B2D16247E003CF11D = {
 			isa = PBXGroup;
 			children = (
-				4E91B4562D16247E003CF11D /* StikNES */,
+				DCF9F8D02D1E714300B62091 /* MedNES */,
 				4E91B4552D16247E003CF11D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -69,7 +69,7 @@
 		4E91B4552D16247E003CF11D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4E91B4542D16247E003CF11D /* StikNES.app */,
+				4E91B4542D16247E003CF11D /* MedNES.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -77,9 +77,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4E91B4532D16247E003CF11D /* StikNES */ = {
+		4E91B4532D16247E003CF11D /* MedNES */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E91B4622D162480003CF11D /* Build configuration list for PBXNativeTarget "StikNES" */;
+			buildConfigurationList = 4E91B4622D162480003CF11D /* Build configuration list for PBXNativeTarget "MedNES" */;
 			buildPhases = (
 				4E91B4502D16247E003CF11D /* Sources */,
 				4E91B4512D16247E003CF11D /* Frameworks */,
@@ -91,13 +91,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4E91B4562D16247E003CF11D /* StikNES */,
+				DCF9F8D02D1E714300B62091 /* MedNES */,
 			);
-			name = StikNES;
+			name = MedNES;
 			packageProductDependencies = (
 			);
 			productName = StosNES;
-			productReference = 4E91B4542D16247E003CF11D /* StikNES.app */;
+			productReference = 4E91B4542D16247E003CF11D /* MedNES.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -115,7 +115,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4E91B44F2D16247E003CF11D /* Build configuration list for PBXProject "StikNES" */;
+			buildConfigurationList = 4E91B44F2D16247E003CF11D /* Build configuration list for PBXProject "MedNES" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -131,7 +131,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4E91B4532D16247E003CF11D /* StikNES */,
+				4E91B4532D16247E003CF11D /* MedNES */,
 			);
 		};
 /* End PBXProject section */
@@ -321,7 +321,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.stossy11.StosNES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "StikNES/Bridging/StikNES-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "MedNES/Bridging/MedNES-Bridging-Header.h";
 				SWIFT_OBJC_INTEROP_MODE = objcxx;
 				SWIFT_VERSION = 5.0;
 				SYSTEM_HEADER_SEARCH_PATHS = (
@@ -368,7 +368,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.stossy11.StosNES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "StikNES/Bridging/StikNES-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "MedNES/Bridging/MedNES-Bridging-Header.h";
 				SWIFT_OBJC_INTEROP_MODE = objcxx;
 				SWIFT_VERSION = 5.0;
 				SYSTEM_HEADER_SEARCH_PATHS = (
@@ -384,7 +384,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4E91B44F2D16247E003CF11D /* Build configuration list for PBXProject "StikNES" */ = {
+		4E91B44F2D16247E003CF11D /* Build configuration list for PBXProject "MedNES" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E91B4602D162480003CF11D /* Debug */,
@@ -393,7 +393,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4E91B4622D162480003CF11D /* Build configuration list for PBXNativeTarget "StikNES" */ = {
+		4E91B4622D162480003CF11D /* Build configuration list for PBXNativeTarget "MedNES" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E91B4632D162480003CF11D /* Debug */,

@@ -6,6 +6,6 @@
 //
 
 #import "SDL2/SDL.h"
-#import "StikNESObjc.hpp"
+#import "MedNESObjc.hpp"
 
 
